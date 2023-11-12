@@ -1,0 +1,71 @@
+body {
+    color: white;
+}
+
+.header {
+    margin-top: 20px;
+}
+
+.header a {
+    list-style: none;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    background-color: red;
+    text-align: left;
+
+}
+
+.background {
+    background-color: brown;
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: justify;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    text-align: justify;
+}
+
+i, b {
+    color: black;
+}
+
+.timeline {
+    background-color: brown;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.pricelist {
+    color: black
+}
+
+h3 {
+    font-size: 32px;
+    text-align: center;
+}
+
+/* Table CSS here instead of on the index file */
+table {
+    width: 900px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 0 auto;
+    color: black;
+    border-collapse: separate;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+  
